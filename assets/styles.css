@@ -2,4 +2,5 @@ img {
   width: 200px;
   height: 200px;
   border: solid 2cm magenta;
+  border-radius: 100%;
 }
