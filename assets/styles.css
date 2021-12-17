@@ -1,3 +1,5 @@
 img {
-  width: 100vw;
+  width: 200px;
+  height: 200px;
+  border: solid 2cm magenta;
 }
